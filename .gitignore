@@ -1,0 +1,25 @@
+# 构建产物
+build/
+dist/
+*.spec.bak
+
+# 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时诊断文件
+_diag_*
+_check_*.py
+
+# IDE
+.idea/
+.vscode/
+
+# 日志与本地数据
+logs/
+*.log
